@@ -6,7 +6,7 @@
 # [.NET Core 2.0](#tab/netcore20)
 # [.NET Core 2.1](#tab/netcore21)
 # [.NET Core 2.2](#tab/netcore22)
-# [.NET Core 3.0](#tab/netcore30)
+# [.NET Core 3.0](#tab/netcore3000)
 # [.NET Core 3.x](#tab/netcore3x)
 # [.NET Core 3.0 Preview 1](#tab/netcore30)
 # [Portal](#tab/portal1)
